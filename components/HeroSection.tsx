@@ -76,38 +76,12 @@ export function HeroSection() {
           <div className="absolute -bottom-8 -right-8 w-72 h-72 bg-blue-500/5 rounded-full blur-3xl"></div>
           <div className="relative">
             <img
-              src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              src="rufaro.png?auto=compress&cs=tinysrgb&w=1200"
               alt="Rufaro Mugabe"
               className="w-full h-[600px] object-cover object-center rounded-2xl"
-              style={{
-                WebkitMaskImage: 'linear-gradient(to bottom, black 50%, transparent 100%)',
-                maskImage: 'linear-gradient(to bottom, black 50%, transparent 100%)'
-              }}
+            
             />
-            <div className="absolute inset-0 bg-gradient-to-br from-muted/30 via-background/60 to-background rounded-2xl"></div>
-            <div className="absolute bottom-0 left-0 right-0 p-6">
-              <pre className="text-sm"><code><span className="text-blue-400">class</span> <span className="text-green-400">Developer</span> {`{
-  `}<span className="text-yellow-400">constructor</span>() {`{
-    `}<span className="text-purple-400">this</span>.<span className="text-blue-400">name</span> = <span className="text-orange-400">"Rufaro Mugabe"</span>;
-    <span className="text-purple-400">this</span>.<span className="text-blue-400">education</span> = <span className="text-orange-400">"BTech Software Engineering @ HIT"</span>;
-    <span className="text-purple-400">this</span>.<span className="text-blue-400">skills</span> = [
-      <span className="text-orange-400">"Flutter & Dart"</span>,
-      <span className="text-orange-400">"Next.js & React"</span>,
-      <span className="text-orange-400">"Google Gemini AI"</span>,
-      <span className="text-orange-400">"Firebase & FastAPI"</span>
-    ];
-  
-
-  <span className="text-yellow-400">buildSolution</span>(<span className="text-blue-400">challenge</span>) {`{
-    `}<span className="text-purple-400">return</span> <span className="text-purple-400">this</span>.<span className="text-blue-400">skills</span>
-      .<span className="text-yellow-400">combine</span>(<span className="text-blue-400">innovation</span>)
-      .<span className="text-yellow-400">with</span>(<span className="text-blue-400">passion</span>)
-      .<span className="text-yellow-400">create</span>(<span className="text-orange-400">"impactful solutions"</span>);
-
-
-<span className="text-purple-400">export</span> <span className="text-purple-400">default</span> <span className="text-purple-400">new</span> <span className="text-green-400">Developer</span>();</code></pre>
             </div>
-          </div>
         </motion.div>
       </div>
       <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 animate-bounce">
