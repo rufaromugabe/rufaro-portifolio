@@ -19,10 +19,9 @@ const languageIconMap: { [key: string]: string } = {
   "Python": "python",
   "Dart": "dart",
   "Flutter": "flutter",
-  "n8n": "n8n",
   "Bash": "bash",
   "Java": "java",
-  "GraphQL": "graphql"
+ 
 };
 
 export function SkillsSection() {

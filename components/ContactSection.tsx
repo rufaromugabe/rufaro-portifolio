@@ -87,7 +87,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <h4 className="text-lg font-medium">Email</h4>
-                  <p className="text-muted-foreground">rufaro@example.com</p>
+                  <p className="text-muted-foreground">rufarorevmugabe@gmail.com</p>
                   <p className="text-sm mt-1">
                     Feel free to email me about any questions or inquiries
                   </p>

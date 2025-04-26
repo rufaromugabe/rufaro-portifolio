@@ -133,9 +133,9 @@ export function AboutSection() {
               <div className="rounded-full bg-primary/10 p-3 w-12 h-12 flex items-center justify-center mx-auto mb-4">
                 <Award className="h-6 w-6 text-primary" />
               </div>
-              <h4 className="text-lg font-medium mb-2">Fun Fact</h4>
+              <h4 className="text-lg font-medium mb-2">Fav Quote</h4>
               <p className="text-muted-foreground text-sm">
-                I have a twin sister named Tadiwa!
+                Be nice for no reason!
               </p>
             </div>
           </div>

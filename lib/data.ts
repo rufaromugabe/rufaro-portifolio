@@ -108,10 +108,9 @@ export const skills = {
     "Dart",
     "Flutter",
     "Next.js",
-    "n8n",
     "SQL",
     "HTML/CSS",
-    "GraphQL"
+
   ]
 };
 
