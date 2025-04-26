@@ -13,7 +13,7 @@ export function Footer() {
               href="/"
               className="text-xl font-bold tracking-tight hover:opacity-80 transition-opacity"
             >
-              Rufaro<span className="text-primary">.</span>
+              Rufaro Mugabe<span className="text-primary">.</span>
             </Link>
             <p className="text-muted-foreground text-sm mt-2">
               Technical professional specializing in AI/ML integrations,<br />

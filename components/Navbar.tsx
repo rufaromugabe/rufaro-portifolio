@@ -41,7 +41,7 @@ export function Navbar() {
           href="/"
           className="text-xl font-bold tracking-tight hover:opacity-80 transition-opacity"
         >
-          Rufaro<span className="text-primary">.</span>
+          Rufaro Mugabe<span className="text-primary">.</span>
         </Link>
 
         {/* Desktop Navigation */}
