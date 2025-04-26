@@ -96,15 +96,14 @@ export function HeroSection() {
       <span className="text-orange-400">"Google Gemini AI"</span>,
       <span className="text-orange-400">"Firebase & FastAPI"</span>
     ];
-  `}`}
+  
 
   <span className="text-yellow-400">buildSolution</span>(<span className="text-blue-400">challenge</span>) {`{
     `}<span className="text-purple-400">return</span> <span className="text-purple-400">this</span>.<span className="text-blue-400">skills</span>
       .<span className="text-yellow-400">combine</span>(<span className="text-blue-400">innovation</span>)
       .<span className="text-yellow-400">with</span>(<span className="text-blue-400">passion</span>)
       .<span className="text-yellow-400">create</span>(<span className="text-orange-400">"impactful solutions"</span>);
-  `}`}
-`}`}
+
 
 <span className="text-purple-400">export</span> <span className="text-purple-400">default</span> <span className="text-purple-400">new</span> <span className="text-green-400">Developer</span>();</code></pre>
             </div>
