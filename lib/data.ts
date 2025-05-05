@@ -7,7 +7,7 @@ export const projects = [
     tech: ["Flutter", "Dart", "Google Gemini", "SharedPreferences"],
     category: "mobile",
     github: "https://github.com/rufaromugabe/utano",
-    demo:null
+    demo:null,
     private: false
   },
   {
