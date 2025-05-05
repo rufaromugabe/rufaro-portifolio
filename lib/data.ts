@@ -7,7 +7,7 @@ export const projects = [
     tech: ["Flutter", "Dart", "Google Gemini", "SharedPreferences"],
     category: "mobile",
     github: "https://github.com/rufaromugabe/utano",
-    demo: "https://utano.rufaro.dev",
+    demo:null
     private: false
   },
   {
@@ -17,7 +17,7 @@ export const projects = [
     tech: ["Flutter", "Google Classroom API", "SQLite"],
     category: "mobile",
     github: "https://github.com/rufaromugabe/student-companion",
-    demo: "https://companion.rufaro.dev",
+    demo:null,
     private: false
   },
   {
@@ -27,7 +27,7 @@ export const projects = [
     tech: ["Next.js", "Node.js", "Vector Search"],
     category: "web",
     github: "https://github.com/rufaromugabe/cv-portal",
-    demo: "https://cvportal.rufaro.dev",
+    demo: "https://cv.afrainity.com",
     private: true
   },
   {
@@ -37,7 +37,7 @@ export const projects = [
     tech: ["Node.js", "TypeScript", "Google Gemini"],
     category: "aiml",
     github: "https://github.com/rufaromugabe/n8n-nodes-gemini-search",
-    demo: null,
+    demo: "https://www.npmjs.com/package/n8n-nodes-gemini-search",
     private: false
   },
   {
@@ -57,7 +57,7 @@ export const projects = [
     tech: ["Next.js", "Vercel", "TypeScript"],
     category: "web",
     github: null,
-    demo: "https://mict.gov.zw",
+    demo: "https://ictministry-seven.vercel.app",
     private: true
   }
 ];
