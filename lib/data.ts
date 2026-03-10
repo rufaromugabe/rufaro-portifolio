@@ -26,7 +26,7 @@ export const projects = [
     description: "Automated job matching platform that analyzes CVs and connects candidates to relevant opportunities",
     tech: ["Next.js", "Node.js", "Vector Search"],
     category: "web",
-    github: "https://github.com/rufaromugabe/cv-portal",
+    github: "https://github.com/rufaromugabe/cv-management",
     demo: "https://cv-management-ten.vercel.app",
     private: true
   },
