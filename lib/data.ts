@@ -27,7 +27,7 @@ export const projects = [
     tech: ["Next.js", "Node.js", "Vector Search"],
     category: "web",
     github: "https://github.com/rufaromugabe/cv-portal",
-    demo: "https://cv.afrainity.com",
+    demo: "https://cv-management-ten.vercel.app",
     private: true
   },
   {
